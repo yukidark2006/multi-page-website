@@ -1,0 +1,64 @@
+body {
+    margin: 10px;
+    padding: 05px;
+    background-image: url(c26750c3-e88c-4b54-80a9-a7e8d292497d.jpg);
+    
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-image: url(whitepicture.png);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+h1 {
+  color: #550404;
+  text-align: center;
+}
+
+h2 {
+    color: #a00d0df4;
+    text-align: center;
+}
+
+h3 {
+    color: #06b706b5
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 16px;
+  color: #f4f0f0;
+}
+
+#game{
+    color: #b30000;
+}
+
+#EF {
+    font-family: 'Lucida Handwriting', cursive;
+}
+
+#info {
+    color: #be0808ac;
+}
+
+#Gheader {
+   height: 60vh;
+   background-image: url(https://i.pinimg.com/736x/6b/fc/aa/6bfcaadefabe54311e0e4f5ab13dfa2a.jpg);
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+}
